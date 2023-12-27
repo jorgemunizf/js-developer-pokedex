@@ -1,0 +1,22 @@
+* {
+  font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
+  background-color: cadetblue;
+}
+
+.pokemon {
+  display: flex;
+  flex-direction: column;
+  margin: 5rem;
+}
+
+.content_detail {
+  border-radius: 1rem;
+  background: white;
+  display: flex;
+}
+
+.details {
+  list-style: none;
+  background-color: white;
+}
